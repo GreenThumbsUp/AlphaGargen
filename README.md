@@ -1,1 +1,1 @@
-# GiitProjects
+# GitProjects
